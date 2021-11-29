@@ -1,0 +1,40 @@
+.notion-callout {
+    box-shadow: 0 20px 30px -10px rgb(0,0,0,0.2) !important;
+    color: white !important;
+    letter-spacing: 0.3px !important;
+    border-radius: 100px !important;
+    align-items: center !important;
+    position: relative !important;
+    font-weight: 600 !important;
+    border: none !important;
+    height: 50px;
+}
+
+.notion-semantic-string .link {
+  color: white;
+  opacity: 1;
+}
+
+.notion-callout__icon {
+  padding-left: 20px;
+}
+
+.notion-callout .notion-semantic-string {
+  line-height: 0;
+}
+
+.notion-callout__content .notion-semantic-string{
+  padding-left:20px;
+}
+
+.bg-purple-light  {
+  background: #5e17ec;
+  box-shadow: 0 20px 30px -10px rgb(94,23,236,0.25) !important;
+  color: white;
+}
+
+.bg-green-light {
+  background: #00ff7f;
+  box-shadow: 0 20px 30px -10px rgb(0,255,127,0.2) !important;
+  color: white;
+}
